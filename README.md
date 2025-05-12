@@ -73,5 +73,5 @@
 
 ---
 ## ⚡ Запуск проекта
-- Скачивайие "Sentiment classification.ipynb" и "train.csv"
+- Скачивайте "Sentiment classification.ipynb" и "train.csv"
 - После установки необходимых библиотек запустите в google collab или Jupiter Notebook
